@@ -25,7 +25,6 @@
 
 html {
   font-size: var(--font-size-10);
-  scroll-behavior: smooth;
 }
 
 body {
@@ -44,15 +43,15 @@ body {
 .grid_container {
   display: grid;
   grid-template-columns: auto;
-  grid-template-rows: auto 7rem;
+  grid-template-rows: auto 1fr;
   grid-template-areas: "main_content" "footer";
-  grid-row-gap: 1rem;
 }
 
 footer {
   grid-area: footer;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 footer a {
