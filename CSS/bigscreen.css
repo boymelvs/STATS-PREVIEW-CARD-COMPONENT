@@ -51,9 +51,9 @@
     background-image: url("../images/image-header-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: var(--soft-violet);
-    background-blend-mode: multiply;
     border-radius: 0 1rem 1rem 0;
+    background-blend-mode: overlay;
+    background-color: var(--soft-violet);
     width: 100%;
   }
 }
