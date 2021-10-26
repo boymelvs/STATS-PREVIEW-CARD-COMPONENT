@@ -1,5 +1,4 @@
-# Frontend Mentor - Order summary card solution
-
+# Frontend Mentor - STATS PREVIEW CARD COMPONENT SOLUTION
 ## Table of contents
 
 - [Overview](#overview)
